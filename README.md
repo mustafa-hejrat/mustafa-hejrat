@@ -1,16 +1,35 @@
-## Hi there 👋
+# Mustafa Hejrat
+## QA Analyst | Manual & Automation Testing
 
-<!--
-**mustafa-hejrat/mustafa-hejrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Analyst with 8+ years of experience in software testing,
+including Manual Testing, Automation Testing, API Testing,
+SQL Validation, and Agile environments.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Manual Testing
+- Selenium WebDriver
+- Playwright
+- API Testing (Postman)
+- SQL Database Validation
+- Jira / Azure DevOps
+- CI/CD Testing
+- Agile Scrum
+
+## QA Portfolio Projects
+
+### Web UI Automation Framework
+Selenium and Playwright automation projects using industry practices.
+
+### API Testing
+REST API testing examples using Postman.
+
+### Database Testing
+SQL queries and backend validation examples.
+
+### QA Documentation
+Test plans, test cases, bug reports, and traceability examples.
+
+## Contact
+
+LinkedIn: linkedin.com/in/mustafa-hejrat
