@@ -6,7 +6,7 @@ QA Analyst with 7+ years of experience in Manual and Automation Testing, includi
 
 ### Core Skills
 
-* **Test Automation:** Functional, Regression, Smoke, Integration, System, Exploratory, End-to-End, API, Usability, UAT
+* **Manual Testing:** Functional, Regression, Smoke, Integration, System, Exploratory, End-to-End, API, Usability, UAT
 * **Test Automation:** Playwright, Selenium WebDriver
 * **API Testing:** REST API, Postman, Playwright API
 * **Programming:** TypeScript, Java
