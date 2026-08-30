@@ -1,28 +1,52 @@
 # Mustafa Hejrat
-## QA Analyst | Manual & Automation Testing
 
-QA Analyst with 8+ years of experience in software testing,
-including Manual Testing, Automation Testing, API Testing,
-SQL Validation, and Agile environments.
+## QA Analyst | Software Quality Assurance | Test Automation
 
-## Technical Skills
+QA Analyst with 7+ years of experience in Manual and Automation Testing, including web applications, API testing, SQL/database validation, and Agile/Scrum environments.
 
-- Manual Testing
-- Selenium WebDriver
-- Playwright
-- API Testing (Postman)
-- SQL Database Validation
-- Jira / Azure DevOps
-- CI/CD Testing
-- Agile Scrum
+### Core Skills
 
-## QA Portfolio Projects
+* **Test Automation:** Functional, Regression, Smoke, Integration, System, Exploratory, End-to-End, API, Usability, UAT
+* **Test Automation:** Playwright, Selenium WebDriver
+* **API Testing:** REST API, Postman, Playwright API
+* **Programming:** TypeScript, Java
+* **Database:** SQL, Data Validation
+* **CI/CD:** GitHub Actions, Jenkins
+* **Tools:** Jira, Azure DevOps, Git, GitHub
+* **Methodologies:** Agile, Scrum, Regression, Functional, Integration Testing
 
-### Web UI Automation Framework
-Selenium and Playwright automation projects using industry practices.
+### Featured Project
 
-### API Testing
-REST API testing examples using Postman.
+**AI-Assisted QA Automation Framework**
+
+Playwright + TypeScript automation project demonstrating:
+
+* Web UI automation
+* REST API testing
+* Page Object Model
+* Positive and negative testing
+* Response validation
+* Git/GitHub workflow
+* CI/CD integration
+
+👉 [View the project](https://github.com/mustafa-hejrat/ai-qa-playwright)
+
+### About My QA Approach
+
+I focus on building reliable, maintainable automation that provides fast feedback and supports the complete software quality lifecycle — from functional and regression testing to API validation and CI/CD.
+
+### Currently Improving
+
+* Playwright automation
+* API automation
+* SQL/database testing
+* CI/CD with GitHub Actions
+* AI-assisted QA automation
+
+### Connect
+
+**LinkedIn:** [linkedin.com/in/mustafa-hejrat](https://www.linkedin.com/in/mustafa-hejrat)
+
 
 ### Database Testing
 SQL queries and backend validation examples.
