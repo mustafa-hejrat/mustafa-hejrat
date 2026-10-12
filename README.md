@@ -67,28 +67,41 @@ I focus on building reliable and maintainable testing solutions that improve sof
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured QA Projects
 
-### AI-Assisted QA Automation Framework
+### 1. Manual QA Portfolio
 
-**Playwright + TypeScript**
+**Manual Testing | Test Cases | Bug Reports | Test Planning**
+
+A practical manual QA portfolio demonstrating structured testing documentation, including:
+
+- Seven designed password-recovery test cases
+- A documented Android password-recovery navigation defect
+- Screenshot evidence linked to the bug report
+- A password-recovery test plan
+- Positive, negative, functional, and navigation test scenarios
+- Expected results, risk considerations, and regression recommendations
+
+**Note:** Test execution is pending; the test cases are documented designs, not reported pass/fail results.
+
+👉 [**View Manual QA Portfolio**](https://github.com/mustafa-hejrat/manual-qa-portfolio)
+
+### 2. AI-Assisted QA Automation Framework
+
+**Playwright | TypeScript | REST API Testing**
 
 A hands-on QA automation project demonstrating modern software testing practices, including:
 
-* Web UI automation
-* REST API automation
-* Manual and automated test scenarios
-* Positive and negative testing
-* Page Object Model (POM)
-* API response validation
-* Status code and header validation
-* Git/GitHub workflow
-* CI/CD integration
+- Web UI automation
+- REST API automation
+- Positive and negative testing
+- Page Object Model (POM)
+- API response validation
+- Status code and header validation
+- Git/GitHub workflow
+- CI/CD integration with GitHub Actions
 
-👉 **[View AI-QA-Playwright Project](https://github.com/mustafa-hejrat/ai-qa-playwright)**
-
----
-
+👉 [**View Playwright Automation QA Project**](https://github.com/mustafa-hejrat/ai-qa-playwright)
 ## 🎯 Currently Improving
 
 * Playwright Automation
